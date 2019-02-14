@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/jasonw0ng/jasonw0ng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+姓  名：	王秋晨   	    性  别：	男    	  出 生 日 期：	1988年8月
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+工作年限：	5年   	    电子邮箱：	mrwqc@163.com    	   手  机：	15967892608
 
-### Markdown
+### 教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2009 /9 -- 2013 /6	浙江工业大学	软件工程	本科
 
-```markdown
-Syntax highlighted code block
+### IT技能
 
-# Header 1
-## Header 2
-### Header 3
+Spring MVC、Dubbo、Redis、MongoDb、Zookeeper、Mybatis、WebSocket、flink、Linux
 
-- Bulleted
-- List
+### 期望薪资
 
-1. Numbered
-2. List
+15~20K
 
-**Bold** and _Italic_ and `Code` text
+### 工作经验
 
-[Link](url) and ![Image](src)
-```
+2017/2 -- 至今：             宁波重彩信息科技有限公司
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+所属行业：	互联网软件\网络
 
-### Jekyll Themes
+软件部：                          软件开发工程师
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonw0ng/jasonw0ng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+分布式系统架构框架搭建，高并发系统架构部署；
 
-### Support or Contact
+大数据分析架构设计，缓存集群部署，Linux高可用集群部署
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2015/2 -- 2016/12：     兄弟高科技股份有限公司
+
+信息中心：                      软件工程师
+
+集团WMS系统开发设计及库存项目后期维护更新；
+
+协作开发业务及维护、数据库设计开发维护；负责生产制造应用项目的系统开发设计
+
+2013/2 -- 2014/12：      杭州新中大软件股份有限公司
+
+工程软件部：                    技术支持工程师
+ERP系统MES模块开发技术支持；数据库服务器部署
+
+### 项目经验
+
+2018/3--2018/12  大宗商品期货交易系统
+
+项目描述：	涵盖四大交易所的商品期货的交易、资讯、行情、社区等服务APP后台服务系统。
+
+责任描述：	分布式系统架构部署，缓存及数据库集群部署，服务器性能及稳定保障，项目进度稳定推进，对开发过程进行总结与统计分析，对测试进行跟踪，并提出反馈意见。与iOS安卓等前端协作，确保接口的易用与性能稳定，解决产品缺陷极力改善产品的用户使用体验。
+
+2017/4--2017/12  金融行情分析系统
+
+项目描述：	包含贵金属交易、虚拟币交易、期货交易的各大交易平台的数据接收、大数据分析处理，提供丰富的实时行情K线、委托量价及深度、日线月线数据的接口，支持多级订阅。
+
+责任描述：	系统并发线程池部署，redis集群优化，数据库集群部署，netty框架搭建，服务器性能调优，确保小组项目进度稳定推进。
+
+2016/3--2016/11  企业物流供应链管理系统
+
+项目描述：	该系统可以随时随地登录系统，物料自动化扫码出入库，实时刷新生成库存报表，随时了解库存信息。库存调拨明细可以自动反映到销售与会计中，各种成本估算，选择最合适的计算方法，准确跟踪生产情况。
+
+责任描述：	系统开发跟进与进度管理；对服务器运行发现的问题进行详细分析和准确定位；提出对产品的进一步改进的建议，并评估改进方案是否合理；确保SCM系统整个生命周期过程数据库服务正常及ERP系统的接口服务稳定运行。
+
+### 自我评价
+
+细心踏实，开朗随和，团队合作，责任心强，工作积极主动，一丝不苟
